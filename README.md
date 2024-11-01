@@ -12,4 +12,8 @@ A CLI task tracker that tracks your tasks, manages them with features to add, de
 Run the following command in your terminal:
 ```bash
 python main.py [command] [options]
+```
+
+## Project URL
+https://roadmap.sh/projects/task-tracker
 
